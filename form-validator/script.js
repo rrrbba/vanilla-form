@@ -28,7 +28,7 @@ function isValidEmail(email) { //js email regex
 //Check required fields
 function checkRequired(inputArr) {
     inputArr.forEach(function(input) {
-        if(input.value.trim() === '') { //trim trims out whitespace
+        if(input.value.trim() === '') { //trims out whitespace
             showError(input)
         } 
     })
