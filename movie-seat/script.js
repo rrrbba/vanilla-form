@@ -82,9 +82,7 @@ updateSelectedCount();
 
 
 
-//Examples of map and forEach
-
-//map
+//Examples of map 
 // const arr = [1,2,3]
 // const arr2 = [...arr, 4, 5]
 
@@ -95,7 +93,7 @@ updateSelectedCount();
 // console.log(arr3) returns [2,4,6,8,10]
 
 
-//forEach
+//Examples of forEach
 // const arr = [1,2,3]
 // const arr2 = [...arr, 4,5]
 
