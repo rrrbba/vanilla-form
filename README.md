@@ -22,4 +22,4 @@
 4. Exchange Rate Calculator
     - Allows the user to calculate the exchange rate of the currency of their choice
     - This project focuses on the use of the Fetch API and JSON
-        - Uses the Fetch API to make HTTP requests to the exchange rate API to get the exchange rates. Fetch is built into the web browser
+        - Uses the Fetch API to make HTTP requests to the exchange rate API to get the exchange rates. Fetch is built into the web browser so need to install anything
